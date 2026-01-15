@@ -1,0 +1,7 @@
+Django==5.2
+langchain==0.3.26
+langchain-core==0.3.66
+langchain-google-genai==2.1.5
+
+google-ai-generativelanguage==0.6.18
+python-dotenv==1.1.0
